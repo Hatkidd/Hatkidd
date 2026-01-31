@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hatkidd
-- 👀 I’m interested in the marrow SDK
+- 👀 I’m interested in Python + App Development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on boneLAB mods
+- 💞️ I’m looking to collaborate on Apps
 - 📫 How to reach me on discord! @hatkidd
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: im a idot
